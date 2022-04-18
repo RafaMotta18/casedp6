@@ -1,5 +1,8 @@
 <h1> ⚠️CASE AUTOS DP6⚠️</h1>
 
+![WhatsApp Image 2022-04-18 at 10 34 49](https://user-images.githubusercontent.com/90046798/163815936-599ddae3-f966-44d2-acb7-97e8f9105b47.jpeg)
+
+
 <h3>OBJETIVO | GOAL</H3>
 
 + Planejamento e Implementação de coleta de dados em ambiente web
